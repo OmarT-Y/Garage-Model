@@ -1,0 +1,1 @@
+A model of a Garage Embedded System using ATMega32.
